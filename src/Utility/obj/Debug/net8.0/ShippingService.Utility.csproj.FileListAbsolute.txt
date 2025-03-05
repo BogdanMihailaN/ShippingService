@@ -1,0 +1,11 @@
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Utility/bin/Debug/net8.0/ShippingService.Utility.deps.json
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Utility/bin/Debug/net8.0/ShippingService.Utility.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Utility/bin/Debug/net8.0/ShippingService.Utility.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Utility/obj/Debug/net8.0/ShippingService.Utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Utility/obj/Debug/net8.0/ShippingService.Utility.AssemblyInfoInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Utility/obj/Debug/net8.0/ShippingService.Utility.AssemblyInfo.cs
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Utility/obj/Debug/net8.0/ShippingService.Utility.csproj.CoreCompileInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Utility/obj/Debug/net8.0/ShippingService.Utility.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Utility/obj/Debug/net8.0/refint/ShippingService.Utility.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Utility/obj/Debug/net8.0/ShippingService.Utility.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Utility/obj/Debug/net8.0/ref/ShippingService.Utility.dll

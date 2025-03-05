@@ -1,0 +1,11 @@
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Repositories/bin/Debug/net8.0/ShippingService.Repositories.deps.json
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Repositories/bin/Debug/net8.0/ShippingService.Repositories.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Repositories/bin/Debug/net8.0/ShippingService.Repositories.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Repositories/obj/Debug/net8.0/ShippingService.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Repositories/obj/Debug/net8.0/ShippingService.Repositories.AssemblyInfoInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Repositories/obj/Debug/net8.0/ShippingService.Repositories.AssemblyInfo.cs
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Repositories/obj/Debug/net8.0/ShippingService.Repositories.csproj.CoreCompileInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Repositories/obj/Debug/net8.0/ShippingService.Repositories.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Repositories/obj/Debug/net8.0/refint/ShippingService.Repositories.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Repositories/obj/Debug/net8.0/ShippingService.Repositories.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ShippingService/src/Repositories/obj/Debug/net8.0/ref/ShippingService.Repositories.dll
